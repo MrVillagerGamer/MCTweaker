@@ -1,5 +1,5 @@
-# Yarn-tweaker
-An example Minecraft Tweaker using yarn mappings.
+# MCTweaker (based on yarn-tweaker by vlakreeh)
+An simple mod loader for Minecraft.
 
 ## Setup
 
